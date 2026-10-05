@@ -4,3 +4,4 @@
 - [Standard Template Library (STL) in C++](https://www.geeksforgeeks.org/cpp/the-c-standard-template-library-stl/)
 - [Logic Building Problems](https://www.geeksforgeeks.org/dsa/logic-building-problems/)
 - [SDE SHEET - A Complete Guide for SDE Preparation](https://www.geeksforgeeks.org/dsa/sde-sheet-a-complete-guide-for-sde-preparation/)
+- [Advanced Data Structures](https://www.geeksforgeeks.org/dsa/advanced-data-structures/)
