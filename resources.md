@@ -5,3 +5,4 @@
 - [Logic Building Problems](https://www.geeksforgeeks.org/dsa/logic-building-problems/)
 - [SDE SHEET - A Complete Guide for SDE Preparation](https://www.geeksforgeeks.org/dsa/sde-sheet-a-complete-guide-for-sde-preparation/)
 - [Advanced Data Structures](https://www.geeksforgeeks.org/dsa/advanced-data-structures/)
+- [AI / From Scratch](https://aiengineeringfromscratch.com/index.html#contents)
