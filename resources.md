@@ -1,0 +1,6 @@
+- [Roadmap to lear DSA](https://www.geeksforgeeks.org/dsa/complete-roadmap-to-learn-dsa-from-scratch/)
+  - [Asymptotic](https://www.geeksforgeeks.org/dsa/types-of-asymptotic-notations-in-complexity-analysis-of-algorithms/)
+  - [Big-O Complexity Chart](https://www.bigocheatsheet.com/)
+- [Standard Template Library (STL) in C++](https://www.geeksforgeeks.org/cpp/the-c-standard-template-library-stl/)
+- [Logic Building Problems](https://www.geeksforgeeks.org/dsa/logic-building-problems/)
+- [SDE SHEET - A Complete Guide for SDE Preparation](https://www.geeksforgeeks.org/dsa/sde-sheet-a-complete-guide-for-sde-preparation/)
